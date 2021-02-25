@@ -4,6 +4,7 @@ standing strong
 on this their chosen battle field
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Form the lines
 Shield by shieldsSide by side
 We're marching into destiny
@@ -13,3 +14,10 @@ Don't look back
 Oden's sons
 Attack!
 >>>>>>> feature
+=======
+Form the lines
+Shield by shields
+Side by side
+We're matching into destiny
+----------------------------
+>>>>>>> 60e344f1bababfe38248a35d8722b6294a5a4b25
