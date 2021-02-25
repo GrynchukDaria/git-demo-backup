@@ -9,13 +9,3 @@ Shield by shields
 Side by side
 We're matching into destiny
 ----------------------------
-=======
-<<<<<<< HEAD
-Shield by shields
-Side by side
-We're matching into destiny
-------------------------------
-=======
-Shield by shield
->>>>>>> f77a149d022591515cebec872e7c2c49c3312a8e
->>>>>>> 0a892f0be03c6bb1c40903de00b6a6b59238fa9f
